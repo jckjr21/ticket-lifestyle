@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-
+  <img width="332" alt="image" src="https://github.com/jckjr21/ticket-lifestyle/assets/142818746/82187bde-3e99-47b6-a8ec-08377919d20a">
 
 </p>
 <p>
@@ -44,17 +44,32 @@ Create Virtual Work Load
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="410" alt="image" src="https://github.com/jckjr21/ticket-lifestyle/assets/142818746/479b77b9-9175-4b3f-959f-cab243269f9a">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Communicate/ Work Tickets
+
+   - Complete tasks as you would in office
+
+   - Assign ticket to team members
+
+   - Communicate with other users
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="409" alt="image" src="https://github.com/jckjr21/ticket-lifestyle/assets/142818746/6e8e3dfd-a30c-44b9-83b0-3e66b8838221">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Closing Out tickets
+
+   - Document tasks performed in resolution of tickets
+
+   - Assist team with unresolved tickets
+   
+   - Follow-up on remaining tickets to help team
+
+   - Close/ Complete Tickets
 </p>
 <br />
